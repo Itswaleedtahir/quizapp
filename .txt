@@ -1,0 +1,34 @@
+const quizQ = [
+
+	{
+	question: "What do you call a computer on a network that requests files from another computer?",
+	a: "a client",
+	b: "a host",
+	c: "a router",
+	d: "a web server",
+	ans: "ans1"
+	},
+	{
+	question: "Hardware devices that are not part of the main computer system and are often added later to the system.",
+	a: "peripheral",
+	b: "clip art",
+	c: "highlight",
+	d: "execute",
+	ans: "ans2"
+	},
+	{
+	question: "The main computer that stores the files that can be sent to computers that are networked together is:",
+	a: "clip art",
+	b: "motherboard",
+	c: "peripheral",
+	d: "file server",
+	ans: "ans3"
+	},
+	{
+	question: "How can you catch a computer virus?",
+	a: "Sending e-mail messages",
+	b: "Using a laptop during the winter",
+	c: "Opening e-mail attachments",
+	d: "Shopping on-line",
+	ans: "ans1"}
+];
